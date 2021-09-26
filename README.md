@@ -1,2 +1,5 @@
 # hello-world
-Testing Repository
+Hi Guys.
+
+Lynn here!
+This is my testing repository.
